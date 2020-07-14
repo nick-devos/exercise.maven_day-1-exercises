@@ -26,7 +26,7 @@ public class GetGradeTest {
 
     @Test
     public void testF2() {
-        test(64.0, 'F');
+        test(64.0, 'F'); //Readme states below 64 = F
     }
 
 
